@@ -1,0 +1,231 @@
+{
+  "tripTitle": "Southern Africa After Sunset",
+  "tagline": "A family-friendly preview of a solo Southern Africa journey built around city lights, waterfalls, safari water, and golden-hour coastlines.",
+  "generalDates": "Dec 29, 2026 – Jan 11, 2027",
+  "departureDate": "2026-12-29",
+  "countries": [
+    { "name": "South Africa", "emoji": "🇿🇦" },
+    { "name": "Zimbabwe", "emoji": "🇿🇼" },
+    { "name": "Zambia", "emoji": "🇿🇲" },
+    { "name": "Botswana", "emoji": "🇧🇼" }
+  ],
+  "routeOrder": "Johannesburg / Rosebank → Victoria Falls, Zimbabwe → Livingstone, Zambia → Kasane / Chobe → Maun / Okavango → Cape Town",
+  "backupRoute": "If the return flight must stay from Johannesburg: Cape Town → Johannesburg with a large same-day buffer. If Kasane → Maun logistics do not work cleanly: save Okavango for a future Botswana trip and continue from Chobe to Cape Town.",
+  "airportStrategy": "Arrive in Johannesburg. Prefer departing from Cape Town if the price and schedule work. Backup: keep a Johannesburg return and fly Cape Town → Johannesburg early with a safe buffer.",
+  "publicPrivacyNote": "Some details are kept private for safety.",
+  "route": [
+    {
+      "order": 1,
+      "city": "Johannesburg / Rosebank",
+      "country": "South Africa",
+      "dates": "Dec 29 – Jan 2",
+      "nights": 4,
+      "role": "Arrival base + Jozi New Year energy",
+      "description": "A familiar Rosebank base for landing, resetting, culture, and a polished New Year celebration before the waterfall and safari stretch.",
+      "travelFlow": "International arrival into Johannesburg, then regional flight onward to Victoria Falls.",
+      "highlights": {
+        "mainVibe": "Urban, stylish, arrival-reset energy",
+        "foodCultureMoment": "Rosebank dining, art, and a meaningful culture stop",
+        "photoMoment": "City lights and Rosebank/Sandton evening glow",
+        "eveningCityLightVibe": "Tasteful New Year dinner and skyline atmosphere",
+        "wowExperience": "Starting the year in Jozi before the journey opens up"
+      }
+    },
+    {
+      "order": 2,
+      "city": "Victoria Falls",
+      "country": "Zimbabwe",
+      "dates": "Jan 2 – Jan 4",
+      "nights": 2,
+      "role": "First major natural wonder",
+      "description": "The Zimbabwe side of Victoria Falls brings the dramatic rainforest walk, mist, viewpoints, and sunset river energy.",
+      "travelFlow": "Fly from Johannesburg to Victoria Falls, then continue by road to Livingstone.",
+      "highlights": {
+        "mainVibe": "Mist, rainforest, Zambezi sunset, wonder",
+        "foodCultureMoment": "A relaxed dinner after the Falls or a Zambezi sunset cruise",
+        "photoMoment": "Falls mist, rainbow viewpoints, and golden river light",
+        "eveningCityLightVibe": "Warm lodge evenings near the Zambezi",
+        "wowExperience": "Standing at one of the world’s great waterfalls"
+      }
+    },
+    {
+      "order": 3,
+      "city": "Livingstone",
+      "country": "Zambia",
+      "dates": "Jan 4 – Jan 5",
+      "nights": 1,
+      "role": "Zambia-side Falls and Zambezi riverfront",
+      "description": "A short Zambia stop for the other side of the Falls, bridge views, and a calmer riverfront moment.",
+      "travelFlow": "Road transfer from Victoria Falls, Zimbabwe to Livingstone, Zambia, then onward to Kasane / Chobe.",
+      "highlights": {
+        "mainVibe": "Riverfront, cross-border, scenic",
+        "foodCultureMoment": "Zambezi-side meal or refined dinner experience",
+        "photoMoment": "Bridge views and Zambia-side Falls angles",
+        "eveningCityLightVibe": "Soft riverfront evening after the border crossing",
+        "wowExperience": "Seeing Victoria Falls from a second country"
+      }
+    },
+    {
+      "order": 4,
+      "city": "Kasane / Chobe",
+      "country": "Botswana",
+      "dates": "Jan 5 – Jan 6",
+      "nights": 1,
+      "role": "Chobe River safari hit",
+      "description": "A compact Chobe stop focused on river safari, elephants, hippos, crocodiles, and a morning game drive.",
+      "travelFlow": "Road transfer from Livingstone to Kasane, with Chobe activities coordinated locally.",
+      "highlights": {
+        "mainVibe": "River safari, wildlife, golden light",
+        "foodCultureMoment": "Lodge dinner after sunset safari",
+        "photoMoment": "Elephants and wildlife along the Chobe River",
+        "eveningCityLightVibe": "Quiet safari-lodge night under Botswana skies",
+        "wowExperience": "Chobe River sunset boat safari"
+      }
+    },
+    {
+      "order": 5,
+      "city": "Maun / Okavango Gateway",
+      "country": "Botswana",
+      "dates": "Jan 6 – Jan 8",
+      "nights": 2,
+      "role": "Okavango mokoro experience",
+      "description": "Maun acts as the gateway to a full-day Okavango Delta mokoro trip and slow water-based safari scenery.",
+      "travelFlow": "Confirm Kasane → Maun logistics before locking non-refundable activities, then fly from Maun onward to Cape Town.",
+      "highlights": {
+        "mainVibe": "Quiet water channels, reeds, birds, stillness",
+        "foodCultureMoment": "Relaxed river dinner after the Delta day",
+        "photoMoment": "Mokoro silhouettes and Delta reflections",
+        "eveningCityLightVibe": "Calm Maun evening after safari travel",
+        "wowExperience": "Floating through the Okavango Delta by mokoro"
+      }
+    },
+    {
+      "order": 6,
+      "city": "Cape Town",
+      "country": "South Africa",
+      "dates": "Jan 8 – Jan 11",
+      "nights": 3,
+      "role": "Coastal finale",
+      "description": "A relaxed Cape Town ending with beaches, food, wine, Table Mountain views, and golden-hour coastline energy.",
+      "travelFlow": "Fly from Maun to Cape Town. Best final strategy is to depart internationally from Cape Town if possible.",
+      "highlights": {
+        "mainVibe": "Beach, mountain, food, golden-hour finale",
+        "foodCultureMoment": "Cape Winelands or V&A / Sea Point dining",
+        "photoMoment": "Signal Hill, Sea Point, Clifton, or Camps Bay sunset",
+        "eveningCityLightVibe": "Waterfront lights and relaxed final dinners",
+        "wowExperience": "Closing the trip with coast, mountains, and wine country"
+      }
+    }
+  ],
+  "homeBases": [
+    {
+      "city": "Johannesburg / Rosebank",
+      "country": "South Africa",
+      "showHotelName": false,
+      "areaOrVibe": "Rosebank home base — familiar, convenient, city-smart",
+      "neighborhood": "Rosebank",
+      "notes": "Hotel name hidden unless approved later. Good for arrival, dining, and short rides to evening areas."
+    },
+    {
+      "city": "Victoria Falls",
+      "country": "Zimbabwe",
+      "showHotelName": false,
+      "areaOrVibe": "Victoria Falls Town — close to the waterfall and sunset activities",
+      "neighborhood": "Victoria Falls Town",
+      "notes": "Hotel name hidden unless approved later. Focus is Falls access and easy activity pickup."
+    },
+    {
+      "city": "Livingstone",
+      "country": "Zambia",
+      "showHotelName": false,
+      "areaOrVibe": "Livingstone riverfront — Zambezi views and Zambia-side Falls access",
+      "neighborhood": "Livingstone riverfront / Mosi-oa-Tunya area",
+      "notes": "Hotel name hidden unless approved later. Short stop for Zambia-side scenery."
+    },
+    {
+      "city": "Kasane / Chobe",
+      "country": "Botswana",
+      "showHotelName": false,
+      "areaOrVibe": "Chobe Riverfront safari base",
+      "neighborhood": "Kasane / Chobe Riverfront",
+      "notes": "Hotel name hidden unless approved later. Activity coordination matters more than flash."
+    },
+    {
+      "city": "Maun / Okavango Gateway",
+      "country": "Botswana",
+      "showHotelName": false,
+      "areaOrVibe": "Maun gateway base near river or airport access",
+      "neighborhood": "Maun / Thamalakane River area",
+      "notes": "Hotel name hidden unless approved later. Base for mokoro day trip and onward flight."
+    },
+    {
+      "city": "Cape Town",
+      "country": "South Africa",
+      "showHotelName": false,
+      "areaOrVibe": "V&A Waterfront / Green Point / Sea Point finale base",
+      "neighborhood": "V&A Waterfront / Green Point / Sea Point",
+      "notes": "Hotel name hidden unless approved later. Focus is beaches, views, food, and easy airport access."
+    }
+  ],
+  "sections": {
+    "botswana": {
+      "title": "Botswana Safari Story",
+      "summary": "Botswana is split into two family-friendly safari moments: Chobe for river wildlife and Maun / Okavango for the mokoro water experience."
+    },
+    "capeTown": {
+      "title": "Cape Town Finish",
+      "summary": "The finale is built around beaches, views, food, culture, and golden-hour Cape scenery."
+    },
+    "newYearFalls": {
+      "title": "New Year Energy → Victoria Falls Wonder",
+      "summary": "The New Year begins in Johannesburg, then the first major emotional anchor is Victoria Falls and the Zambezi."
+    }
+  },
+  "galleryPlaceholders": [
+    "Jozi city lights",
+    "Victoria Falls mist",
+    "Zambezi sunset",
+    "Chobe river safari",
+    "Okavango mokoro",
+    "Cape Town coastline",
+    "Cape Winelands table",
+    "Golden-hour finale"
+  ],
+  "playlist": {
+    "name": "Southern Africa After Sunset",
+    "mood": [
+      "golden-hour",
+      "warm basslines",
+      "airport calm",
+      "safari sunrise",
+      "waterfall mist",
+      "Cape coastline",
+      "family-safe travel diary"
+    ]
+  },
+  "safeToPublish": [
+    "Trip title",
+    "Countries",
+    "Cities",
+    "Route",
+    "General dates",
+    "Hotel areas or names only if approved",
+    "Waterfall and safari highlights",
+    "Cape Town beaches",
+    "Food and culture moments",
+    "Golden photo spots",
+    "Playlist mood without copyrighted lyrics"
+  ],
+  "keepPrivate": [
+    "Adult/private nightlife details",
+    "Exact flight numbers",
+    "Room numbers",
+    "Confirmation numbers",
+    "Cash buffer",
+    "Emergency plan",
+    "Passport details",
+    "Private contacts",
+    "Payment details",
+    "Exact live logistics"
+  ]
+}
